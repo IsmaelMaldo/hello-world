@@ -1,5 +1,5 @@
 /*
-* Ejercicio 6
+* Hello World
 * 
 * @author Ismael Maldonado González
 */
